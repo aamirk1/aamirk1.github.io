@@ -28,8 +28,11 @@
     border-bottom: 1px solid  gold;
     font-weight: 500;
 }
+.head{
+    font-size: 22px;
+}
 .details{
-    background-color: rgb(0, 0, 20) 
+    background-color: rgb(0, 0, 40) 
     /* #ECECEC; */
 }
 .contact,.indesc{
