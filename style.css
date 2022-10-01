@@ -1,0 +1,59 @@
+
+.back{
+    font-family: 'Roboto', sans-serif;
+    background-color: lavender;    
+    text-transform: uppercase;
+    color: blanchedalmond;
+}
+.title, .skills, .ftitle{
+    margin-left: 4px;
+    font-size: 18px;
+    margin-bottom: 0.3px;
+    border-bottom: 1px solid  whitesmoke;
+    font-weight: 450;
+       
+}
+.leftpart{
+    background-color: black;
+}
+.pcustom{
+    margin-bottom: 2px;
+}
+.name>h3, .desc>h4,.desc>p{
+    margin-bottom: 1px;
+}
+.ftitle{
+    font-size: 20px;
+    margin-bottom: -2px;
+    border-bottom: 1px solid  gold;
+    font-weight: 500;
+}
+.details{
+    background-color: rgb(0, 0, 20) 
+    /* #ECECEC; */
+}
+.contact,.indesc{
+    color: blanchedalmond;
+    list-style: none;
+    word-wrap: break-word;
+}
+ul{
+    list-style-type: none;
+    font-weight: 350;
+    
+}
+li{
+    margin-bottom: -10px;
+}
+ul>li>h6{
+    text-decoration: underline;
+    margin-top: 15px;
+    color: blanchedalmond;
+}
+li>a{
+    color: azure;
+}
+.links>a{
+    color: blanchedalmond;
+    text-decoration-line: none;
+}
