@@ -1,4 +1,6 @@
-
+html,body{
+    height: 100%;
+}
 .back{
     font-family: 'Roboto', sans-serif;
     background-color: lavender;    
